@@ -1,0 +1,14 @@
+*.xlsx
+*.db
+*.sqlite
+.env
+.venv/
+__pycache__/
+*.log
+
+# personal architecture notes, not for the repo
+ARCHITECTURE_RU.md
+
+.idea/
+.claude/
+*.png
